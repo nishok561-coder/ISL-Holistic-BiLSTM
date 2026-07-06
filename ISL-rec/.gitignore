@@ -8,10 +8,12 @@ data/landmarks/
 data/processed/
 
 # Trained models
-models/
+models/*
+!model/.gitkeep
 
 # Results
-results/
+results/*
+!model/.gitkeep
 
 # Python
 __pycache__/
