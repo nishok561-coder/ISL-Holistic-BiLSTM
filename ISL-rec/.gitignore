@@ -1,0 +1,28 @@
+# Dataset
+data/raw/
+
+# Generated landmarks
+data/landmarks/
+
+# Processed data
+data/processed/
+
+# Trained models
+models/
+
+# Results
+results/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+venv/
+.venv/
